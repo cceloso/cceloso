@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Claudette Joy Y. Celoso, a 3rd year computer science student at the University of the Philippines Diliman.
-- 👀 I’m interested in designing things, especially graphic design and web design.
-- 🌱 I’m currently learning front-end web development using free online resources like [freeCodeCamp](https://freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com/).
+- 👋 Hi, I’m Claudette Joy Y. Celoso, a 4th year computer science student at the University of the Philippines Diliman.
+- 👀 I’m interested in web development and graphic design.
 - 🛠️ You may view my projects in my [portfolio](https://cceloso.github.io/portfolio/) and in my [CodePen account](https://codepen.io/dawnbludger).
-- 📫 You may reach me at cyceloso1@up.edu.ph if you have inquiries or if you just want to say hello :)
+- 📫 You may reach me at claudetteceloso@gmail.com if you have inquiries or if you just want to say hello :)
 
 Thanks and have a good day! ✨
 
