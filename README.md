@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Claudette Joy Y. Celoso, a 4th year computer science student at the University of the Philippines Diliman.
+- 👋 Hi, I’m Claudette Joy Y. Celoso, a software engineer from the Philippines.
 - 👀 I’m interested in web development and graphic design.
-- 🛠️ You may view my projects in my [portfolio](https://cceloso.github.io/portfolio/) and in my [CodePen account](https://codepen.io/dawnbludger).
+- 🛠️ You may view my projects in my [portfolio](https://cceloso.github.io/portfolio/).
 - 📫 You may reach me at claudetteceloso@gmail.com if you have inquiries or if you just want to say hello :)
 
 Thanks and have a good day! ✨
